@@ -14,7 +14,7 @@ export default class App extends Component {
   state = {
     showPopup: false,
     mapStyle: defaultMapStyle,
-    year: 2016,
+    year: 2018,
     data: null,
     hoveredFeature: null,
     viewport: {
@@ -27,8 +27,8 @@ export default class App extends Component {
   };
 
   componentDidMount() {
-    requestJson('data/cryptopuzzle_test.json', (error, response) => {
-    // requestJson('data/random_hexagon.json', (error, response) => {
+    // requestJson('data/cryptopuzzle_test.json', (error, response) => {
+    requestJson('data/demo_resource.json', (error, response) => {
       if (!error) {
         this._loadData(response);
       }
@@ -136,8 +136,8 @@ export default class App extends Component {
             onClick={() => console.log("overlay click")}
             redraw={this.redraw}
           /> */}
-            {this._renderTooltip()}
-            {this._renderPopUp()}
+            {/* {this._renderTooltip()} */}
+            {/* {this._renderPopUp()} */}
         </MapGL>
 
       </div>
