@@ -28,7 +28,7 @@ export default class App extends Component {
 
   componentDidMount() {
     // requestJson('data/cryptopuzzle_test.json', (error, response) => {
-    requestJson('data/demo_resource.json', (error, response) => {
+    requestJson('data/demo_resource(1).json', (error, response) => {
       if (!error) {
         this._loadData(response);
       }
