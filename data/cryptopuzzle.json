@@ -1,0 +1,1157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Lucas",
+        "income": {
+          "2018": 901452
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              180,
+              -90
+            ],
+            [
+              180,
+              90.0
+            ],
+            [
+              -180,
+              90.0
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexa Welch",
+        "income": {
+          "2018": 655135
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              0.0,
+              -90
+            ],
+            [
+              0.0,
+              90.0
+            ],
+            [
+              -180,
+              90.0
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bill Ferrell",
+        "income": {
+          "2018": 589425
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              0.0,
+              -90
+            ],
+            [
+              0.0,
+              0.0
+            ],
+            [
+              -180,
+              0.0
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacob Andrews",
+        "income": {
+          "2018": 155193
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -90.0,
+              -90
+            ],
+            [
+              -90.0,
+              0.0
+            ],
+            [
+              -180,
+              0.0
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicole Villarreal",
+        "income": {
+          "2018": 525940
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -90.0,
+              -90
+            ],
+            [
+              -90.0,
+              -45.0
+            ],
+            [
+              -180,
+              -45.0
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexander Henry",
+        "income": {
+          "2018": 90598
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -135.0,
+              -90
+            ],
+            [
+              -135.0,
+              -45.0
+            ],
+            [
+              -180,
+              -45.0
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel Pennington",
+        "income": {
+          "2018": 391374
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -135.0,
+              -90
+            ],
+            [
+              -135.0,
+              -67.5
+            ],
+            [
+              -180,
+              -67.5
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kendra Barker",
+        "income": {
+          "2018": 525998
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -157.5,
+              -90
+            ],
+            [
+              -157.5,
+              -67.5
+            ],
+            [
+              -180,
+              -67.5
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guillaume Frye",
+        "income": {
+          "2018": 642841
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -157.5,
+              -90
+            ],
+            [
+              -157.5,
+              -78.75
+            ],
+            [
+              -180,
+              -78.75
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Olson",
+        "income": {
+          "2018": 555816
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -168.75,
+              -90
+            ],
+            [
+              -168.75,
+              -78.75
+            ],
+            [
+              -180,
+              -78.75
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aidan Torres",
+        "income": {
+          "2018": 160451
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -168.75,
+              -90
+            ],
+            [
+              -168.75,
+              -84.375
+            ],
+            [
+              -180,
+              -84.375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Ballard",
+        "income": {
+          "2018": 84598
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -174.375,
+              -90
+            ],
+            [
+              -174.375,
+              -84.375
+            ],
+            [
+              -180,
+              -84.375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emily Flynn",
+        "income": {
+          "2018": 536641
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -174.375,
+              -90
+            ],
+            [
+              -174.375,
+              -87.1875
+            ],
+            [
+              -180,
+              -87.1875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maxime Wilson",
+        "income": {
+          "2018": 792087
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -177.1875,
+              -90
+            ],
+            [
+              -177.1875,
+              -87.1875
+            ],
+            [
+              -180,
+              -87.1875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Dominguez",
+        "income": {
+          "2018": 943227
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -177.1875,
+              -90
+            ],
+            [
+              -177.1875,
+              -88.59375
+            ],
+            [
+              -180,
+              -88.59375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leah Buchanan",
+        "income": {
+          "2018": 793723
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -178.59375,
+              -90
+            ],
+            [
+              -178.59375,
+              -88.59375
+            ],
+            [
+              -180,
+              -88.59375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valérie Russo",
+        "income": {
+          "2018": 37003
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -178.59375,
+              -90
+            ],
+            [
+              -178.59375,
+              -89.296875
+            ],
+            [
+              -180,
+              -89.296875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Josh Benson",
+        "income": {
+          "2018": 415509
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.296875,
+              -90
+            ],
+            [
+              -179.296875,
+              -89.296875
+            ],
+            [
+              -180,
+              -89.296875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amy Hamilton",
+        "income": {
+          "2018": 75646
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.296875,
+              -90
+            ],
+            [
+              -179.296875,
+              -89.6484375
+            ],
+            [
+              -180,
+              -89.6484375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brandon Hernandez",
+        "income": {
+          "2018": 734081
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.6484375,
+              -90
+            ],
+            [
+              -179.6484375,
+              -89.6484375
+            ],
+            [
+              -180,
+              -89.6484375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Audrey Lynn",
+        "income": {
+          "2018": 767939
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.6484375,
+              -90
+            ],
+            [
+              -179.6484375,
+              -89.82421875
+            ],
+            [
+              -180,
+              -89.82421875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelsea Wooten",
+        "income": {
+          "2018": 742096
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.82421875,
+              -90
+            ],
+            [
+              -179.82421875,
+              -89.82421875
+            ],
+            [
+              -180,
+              -89.82421875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roxanne Wilder",
+        "income": {
+          "2018": 695461
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.82421875,
+              -90
+            ],
+            [
+              -179.82421875,
+              -89.912109375
+            ],
+            [
+              -180,
+              -89.912109375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurence Mcmillan",
+        "income": {
+          "2018": 27187
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.912109375,
+              -90
+            ],
+            [
+              -179.912109375,
+              -89.912109375
+            ],
+            [
+              -180,
+              -89.912109375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bianca Fernandez",
+        "income": {
+          "2018": 22441
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.912109375,
+              -90
+            ],
+            [
+              -179.912109375,
+              -89.9560546875
+            ],
+            [
+              -180,
+              -89.9560546875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claire Hurley",
+        "income": {
+          "2018": 197830
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.9560546875,
+              -90
+            ],
+            [
+              -179.9560546875,
+              -89.9560546875
+            ],
+            [
+              -180,
+              -89.9560546875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camille Duffy",
+        "income": {
+          "2018": 158135
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.9560546875,
+              -90
+            ],
+            [
+              -179.9560546875,
+              -89.97802734375
+            ],
+            [
+              -180,
+              -89.97802734375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vincent Valencia",
+        "income": {
+          "2018": 962730
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.97802734375,
+              -90
+            ],
+            [
+              -179.97802734375,
+              -89.97802734375
+            ],
+            [
+              -180,
+              -89.97802734375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabrielle Hooper",
+        "income": {
+          "2018": 981473
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.97802734375,
+              -90
+            ],
+            [
+              -179.97802734375,
+              -89.989013671875
+            ],
+            [
+              -180,
+              -89.989013671875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacob David",
+        "income": {
+          "2018": 853821
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.989013671875,
+              -90
+            ],
+            [
+              -179.989013671875,
+              -89.989013671875
+            ],
+            [
+              -180,
+              -89.989013671875
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etienne Bradshaw",
+        "income": {
+          "2018": 970113
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.989013671875,
+              -90
+            ],
+            [
+              -179.989013671875,
+              -89.9945068359375
+            ],
+            [
+              -180,
+              -89.9945068359375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samantha Cobb",
+        "income": {
+          "2018": 813967
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -179.9945068359375,
+              -90
+            ],
+            [
+              -179.9945068359375,
+              -89.9945068359375
+            ],
+            [
+              -180,
+              -89.9945068359375
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
